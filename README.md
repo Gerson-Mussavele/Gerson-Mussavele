@@ -2,15 +2,15 @@
 
 <p align="center">
   💻 Estudante de Engenharia de Ciências de Computação<br/>
-  🚀 Desenvolvedor Full Stack Java | Spring Boot | React | Node.js<br/>
+  🚀 Desenvolvedor Full Stack Java | Spring Boot | React | Node.js | Python<br/>
   📍 Moçambique
 </p>
 
 ---
 
 ### 🧠 Sobre mim
-Sou apaixonado por tecnologia e desenvolvimento de sistemas completos — desde o backend com **Java Spring Boot** até o frontend com **React e Tailwind CSS**.  
-Gosto de criar soluções práticas e eficientes que ajudam empresas e pessoas no dia a dia.
+Sou apaixonado por tecnologia e desenvolvimento de sistemas completos — desde o backend com **Java Spring Boot** e **Python** até o frontend com **React** e **Tailwind CSS**.  
+Gosto de criar soluções que combinam funcionalidade, design e impacto real.
 
 ---
 
@@ -19,6 +19,9 @@ Gosto de criar soluções práticas e eficientes que ajudam empresas e pessoas n
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
@@ -32,20 +35,21 @@ Gosto de criar soluções práticas e eficientes que ajudam empresas e pessoas n
 ### 🧩 Projetos em Destaque
 
 - 💈 **[King Barbershop App](#)** — Sistema de agendamento e gestão para barbearias (Java Spring Boot + PostgreSQL)  
-- 🛍️ **[RENOVA Marketplace](#)** — Marketplace multivendedor de moda em Moçambique (Spring Boot + React)  
-- 🍽️ **[Afrodite Restaurant System](#)** — Sistema de vendas e gestão (Django)
+- 🛍️ **[RENOVA Marketplace](#)** — Marketplace multivendedor de moda em Moçambique (Spring Boot + React + Tailwind)  
+- 📱 **[Lost and Found](#)** — Aplicação de achados e perdidos para ajudar pessoas a recuperar objetos extraviados (React + Node.js + MongoDB)  
+- 🍽️ **[Afrodite Restaurant System](#)** — Sistema de vendas e gestão (Django + MySQL)
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GersonMussavele&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GersonMussavele&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GersonMussavele&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=GersonMussavele&theme=tokyonight&hide_border=false" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonMussavele&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonMussavele&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
 ---
