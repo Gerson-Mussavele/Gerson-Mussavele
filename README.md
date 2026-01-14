@@ -55,11 +55,14 @@ I enjoy turning ideas into scalable solutions and following clean code and best 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gerson-Mussavele&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gerson-Mussavele&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
   <img width="48%" src="https://streak-stats.demolab.com?user=Gerson-Mussavele&theme=tokyonight"/>
 </p>
 
----
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-Mussavele&layout=compact&theme=tokyonight"/>
+</p>
+
 
 ### 🌍 Connect with Me
 
