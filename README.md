@@ -38,40 +38,47 @@ I enjoy turning ideas into scalable solutions and following clean code and best 
 - 💈 **King Barbershop App**  
   Backend system for barbershop scheduling and management  
   **Tech:** Java Spring Boot, PostgreSQL  
-  🔗 https://github.com/Gerson-Mussavele/king-barbershop-app
+  🔗 [Repository](https://github.com/Gerson-Mussavele/king-barbershop-app)
 
 - 🛍️ **RENOVA Marketplace** *(in development)*  
   Multi-vendor fashion marketplace for Mozambique  
   **Tech:** Spring Boot, React, Tailwind CSS  
-  🔗 https://github.com/Gerson-Mussavele/renova-marketplace
+  🔗 [Repository](https://github.com/Gerson-Mussavele/renova-marketplace)
 
 - 🍽️ **Afrodite Restaurant System**  
   Sales and management system for a real restaurant  
   **Tech:** Django, MySQL  
-  🔗 https://github.com/Gerson-Mussavele/afrodite-system
+  🔗 [Repository](https://github.com/Gerson-Mussavele/afrodite-system)
+
+- 💊 **Farmacy App**  
+  Pharmacy management system  
+  **Tech:** Java Spring Boot, MySQL  
+  🔗 [Repository](https://github.com/Gerson-Mussavele/farmacy-app)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My Stats (Static)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gerson-Mussavele&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=Gerson-Mussavele&theme=tokyonight"/>
+  <img width="45%" src="https://raw.githubusercontent.com/Gerson-Mussavele/Gerson-Mussavele/main/assets/github-contribs.png" alt="GitHub Contributions"/>
+  <img width="45%" src="https://raw.githubusercontent.com/Gerson-Mussavele/Gerson-Mussavele/main/assets/top-languages.png" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-Mussavele&layout=compact&theme=tokyonight"/>
-</p>
+> *Note: Stats images are static and self-hosted to avoid external service downtime.*
 
+---
 
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gérson-mussavele">
+  <a href="https://www.linkedin.com/in/Gerson-Mussavele">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gersongabrielmussavele@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Gerson-Mussavele">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
